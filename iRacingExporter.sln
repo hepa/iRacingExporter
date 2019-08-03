@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iRacingExporter.ClassLibrary", "iRacingExporter.ClassLibrary\iRacingExporter.ClassLibrary.csproj", "{65BF48BA-9401-4C2A-B918-C8AE6A188059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iRacingExporter.Console", "iRacingExporter.Console\iRacingExporter.Console.csproj", "{4D7614D6-45A0-4D6D-9916-ACBEBE278A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65BF48BA-9401-4C2A-B918-C8AE6A188059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BF48BA-9401-4C2A-B918-C8AE6A188059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BF48BA-9401-4C2A-B918-C8AE6A188059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BF48BA-9401-4C2A-B918-C8AE6A188059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7614D6-45A0-4D6D-9916-ACBEBE278A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7614D6-45A0-4D6D-9916-ACBEBE278A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7614D6-45A0-4D6D-9916-ACBEBE278A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7614D6-45A0-4D6D-9916-ACBEBE278A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB6BE11-DA80-4BCC-9FFD-608075A2AA1B}
+	EndGlobalSection
+EndGlobal
